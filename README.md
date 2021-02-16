@@ -8,7 +8,7 @@ Hello and welcome to my super dumb repo that doesn't do anything! We just have a
 * 👩🏾
 
 
-## Fun code times:
+## Fun code times!
 
 TypeScript:
 ```typescript
